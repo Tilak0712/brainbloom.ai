@@ -14,3 +14,5 @@ tqdm
 transformers
 torch
 sentencepiece
+torchvision
+
