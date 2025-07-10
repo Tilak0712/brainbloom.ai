@@ -1,8 +1,11 @@
 streamlit
-transformers
-torch
-diffusers
-pyttsx3
-pypdf
+firebase-admin
+requests
+Pillow
+python-dotenv
+openai
 PyMuPDF
-openai-whisper
+SpeechRecognition
+pyttsx3
+whisper
+tqdm
