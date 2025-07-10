@@ -2,4 +2,4 @@
 headless = true
 enableCORS = true
 enableXsrfProtection = true
-port = 8501
+port = 8502
