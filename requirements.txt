@@ -9,3 +9,4 @@ SpeechRecognition
 pyttsx3
 whisper
 tqdm
+PyPDF2
