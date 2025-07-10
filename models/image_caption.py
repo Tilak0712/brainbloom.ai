@@ -3,6 +3,7 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 import torch
 from io import BytesIO
 
+# ✅ Load fast processor
 processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base", use_fast=True)
 model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
 
