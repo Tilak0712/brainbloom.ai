@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+diffusers
+pyttsx3
+pypdf
+PyMuPDF
+openai-whisper
