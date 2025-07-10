@@ -11,4 +11,6 @@ SpeechRecognition
 pyttsx3
 whisper
 tqdm
-pytesseract
+transformers
+torch
+sentencepiece
