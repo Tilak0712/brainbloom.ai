@@ -5,8 +5,9 @@ Pillow
 python-dotenv
 openai
 PyMuPDF
+PyPDF2
+pdf2image
 SpeechRecognition
 pyttsx3
 whisper
 tqdm
-PyPDF2
